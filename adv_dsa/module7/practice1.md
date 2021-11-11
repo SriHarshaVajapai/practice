@@ -32,3 +32,38 @@
 * Counting Sort
 * Merge Sort
 > **Ans:** Counting Sort
+
+### 6. Which of the sorting algos time complexity remains same in best,worst,avg cases?
+* Merge and Counting
+* Counting and Insertion
+* Merge and Bubble
+* Counting and Quick
+> **Ans:** Merge and Counting
+
+### 7. In which of the following cases it is better to use counting sort?
+* There are 50 elements with range -10^10 to 10^10
+* There are 100000 elements with range -100 to 100
+* There are 100 elements with range -100000 to 100000
+* There are 100000 elements with range -1000000000000 to 1000000000000
+> **Ans:** Option 2
+
+### 8. Which of the following is not right about comparision based sorting algos?
+* Any comparison-based sorting algorithm can be made stable by using the position as criteria when two elements are compared
+* Counting Sort is not a comparison-based sorting algorithm
+* Heap Sort is not a comparison-based sorting algorithm
+* The minimum possible worst case time complexity of a comparison-based sorting algorithm is O(nLogn) for a random input array
+> **Ans:** Option 3
+
+### 9. Which of the sorting algos is most efficient to sort a large array of ASCII character?
+* Merge 
+* Counting
+* Quick 
+* Heap
+> **Ans:** Counting
+
+### 10. Which of the following statement is correct about comparision based sorting?
+* Bubble sort is not a comparison based sort.
+* Any comparison based sort requires at least Omega(nlogn) time in the worst case.
+* Counting sort is a comparison based sort.
+* Any comparison based sort requires at least O(n^2) time.
+> **Ans:** Option 2
